@@ -1,5 +1,3 @@
-# Project Furnace
-
 ![Furnace Logo](https://github.com/ProjectFurnace/furnace/raw/master/assets/furnace-logo-horiz-black.png)
 
 A streaming data processing framework built on Serverless (or FaaS) and GitOps that allows you to build complex pipelines rapidly.
