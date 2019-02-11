@@ -128,6 +128,7 @@ The Furnace platform spans across several repositories.
 | Furnace CLI             | https://github.com/ProjectFurnace/furnace-cli                |
 | Deployment Service      | https://github.com/ProjectFurnace/deploy                     |
 | Module Templates        | https://github.com/ProjectFurnace/module-templates           |
+| Function Templates      | https://github.com/ProjectFurnace/function-templates         |
 | Core Modules            | https://github.com/ProjectFurnace/modules-core               |
 | Platform Bootstrap      | https://github.com/ProjectFurnace/bootstrap                  |
 | Example Security Stack  | https://github.com/ProjectFurnace/AWS-FlowLogs-Security-Example |
